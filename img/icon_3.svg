@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>molecular-lattice-physics-cube-svgrepo-com-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="21" y1="14.2" x2="3" y2="9.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a13cff"/>
+			<stop offset="1" stop-color="#32134f"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="17.9" y1="14.4" x2="11" y2="12.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a13cff"/>
+			<stop offset="1" stop-color="#32134f"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="13" y1="11.4" x2="6.1" y2="9.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#32134f"/>
+			<stop offset="1" stop-color="#a13cff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m12 22.2q-0.1 0-0.1 0q-0.1 0-0.2 0q0 0-0.1 0q0-0.1-0.1-0.1l-8-4.6q-0.1-0.1-0.2-0.2q-0.1-0.1-0.2-0.2q0-0.1-0.1-0.2q0-0.1 0-0.3v-9.2q0-0.2 0-0.3q0.1-0.1 0.1-0.2q0.1-0.1 0.2-0.2q0.1-0.1 0.2-0.2l8-4.6q0.1-0.1 0.2-0.1q0.2 0 0.3 0q0.1 0 0.3 0q0.1 0 0.2 0.1l8 4.6q0.1 0.1 0.2 0.2q0.1 0.1 0.2 0.2q0 0.1 0.1 0.2q0 0.1 0 0.3v9.2q0 0.2 0 0.3q-0.1 0.1-0.1 0.2q-0.1 0.1-0.2 0.2q-0.1 0.1-0.2 0.2l-8 4.6q-0.1 0-0.1 0.1q-0.1 0-0.1 0q-0.1 0-0.2 0q0 0-0.1 0zm-7-6.2l7 4l7-4v-8l-7-4l-7 4z"/>
+	<path id="Layer" class="s1" d="m12 19q-0.2 0-0.4-0.1q-0.2-0.1-0.3-0.2q-0.1-0.1-0.2-0.3q-0.1-0.2-0.1-0.4v-6q0-0.1 0-0.3q0.1-0.1 0.1-0.2q0.1-0.1 0.2-0.2q0.1-0.1 0.2-0.2l5-3q0.3-0.1 0.7 0q0.4 0.1 0.6 0.4q0.2 0.4 0.1 0.8q-0.1 0.3-0.4 0.6l-4.5 2.7v5.4q0 0.2-0.1 0.4q-0.1 0.2-0.2 0.3q-0.1 0.1-0.3 0.2q-0.2 0.1-0.4 0.1z"/>
+	<path id="Layer" class="s2" d="m12 13q-0.1 0-0.1 0q-0.1 0-0.2 0q0-0.1-0.1-0.1q-0.1 0-0.1 0l-5-3q-0.3-0.3-0.4-0.6q-0.1-0.4 0.1-0.8q0.2-0.3 0.6-0.4q0.3-0.1 0.7 0l5 3q0.3 0.2 0.4 0.5q0.1 0.3 0 0.7q0 0.3-0.3 0.5q-0.3 0.2-0.6 0.2z"/>
+</svg>
